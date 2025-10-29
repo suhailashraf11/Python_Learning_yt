@@ -10,7 +10,7 @@ elif age < 3:
 elif 3 <= age <= 10:
     print("Ticket price is 150")
 elif 11 <= age <= 60:
-    print("Ticket price is 2500")
+    print("Ticket price is 250")
 else:
     print("It’s not safe for you!")
 
